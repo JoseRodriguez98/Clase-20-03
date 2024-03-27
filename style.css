@@ -1,0 +1,42 @@
+
+.titulo {           
+    text-align: center;
+}
+
+body {
+    margin: 100px;
+    background-color: black;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+.menu {
+    width: 20%;
+    height: 100vh;
+    background-color: black;
+    color:aliceblue;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+    margin:-20px;
+}
+
+.derechaimg {
+    text-align: right;
+    margin:-40px;
+}
+
+img {
+    display: flex;
+    margin: 40px;
+    align-items: center;
+}
+
